@@ -14,6 +14,7 @@
 
         </div>
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        <asp:Button ID="Button2" runat="server" Text="Button" />
     </form>
 </body>
 </html>
