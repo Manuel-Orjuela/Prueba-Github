@@ -13,6 +13,7 @@
             <asp:Button ID="Button1" runat="server" Text="Button" />
 
         </div>
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     </form>
 </body>
 </html>
